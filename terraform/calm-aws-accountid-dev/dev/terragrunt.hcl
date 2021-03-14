@@ -1,5 +1,5 @@
 terraform {
-  source = "git::git@github.com:omry-hay/calm-example-tf-modules//aws-blueprints/app-api-k8s?ref=app-api-k8s-0.0.2"
+  source = "git::git@github.com:omry-hay/calm-example-tf-modules//aws-blueprints/app-api-k8s?ref=app-api-k8s-0.0.4"
 }
 
 include {
